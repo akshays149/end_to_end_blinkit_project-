@@ -1,6 +1,7 @@
 # Blinkit End-to-End Sales Analysis
 
-![alt text](<Dashboard image-1.jpg>)
+<img width="1533" height="814" alt="Dashboard image" src="https://github.com/user-attachments/assets/3e2cd81b-fad6-4bbe-bca5-c082932c4935" />
+
 
 An end-to-end retail analytics project built on Blinkit sales data using **Excel for exploratory data analysis**, **SQL Server for data cleaning and KPI analysis**, and **Power BI for interactive dashboarding**.
 
